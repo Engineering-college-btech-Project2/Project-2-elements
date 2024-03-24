@@ -1,6 +1,6 @@
 # Project-2-elements
 ![Z Img3-logo](https://github.com/Engineering-college-btech-Project2/Project-2/assets/81384987/8c5f3be3-7467-4b17-8c40-45926db5a534)
-
+[Privacy Policy](https://freecadapp2.000.pe/login/policy.html?i=2)
 About this app
 freeCad, AutoCAD & SolidWorks with Mechanical, Manufacturing & Metrology lab etc.
 
@@ -15,4 +15,9 @@ AutoCAD & SolidWorks beginner to advanced level videos for Mechanical Engineerin
 ![unnamed (3)](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/7af99e30-a00a-4f29-8043-a6731e351ff1)
 ![unnamed (2)](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/8c341676-b2f3-4c35-8bd3-7ab62996e231)
 ![unnamed](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/3e3c36ac-2fd0-4425-af3c-8770b25dee04)
+
+![Untitled999](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/d5072935-55e5-49fe-a2b4-5c44909f0455)
+![Untitled9999](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/dabc1df0-670f-4e82-b3e5-677caac2e26f)
+![Untitled99999](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/28d070c0-721a-4bf5-b31f-098cdcdf0154)
+
 ![268432517-b2a3d1c2-5a6a-4a5b-a763-929756f5b020](https://github.com/Engineering-college-btech-Project2/Project-2-elements/assets/81384987/3a39fb36-17e8-455c-9531-38ce991a2eff)
