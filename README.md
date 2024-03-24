@@ -1,6 +1,11 @@
 # Project-2-elements
 ![Z Img3-logo](https://github.com/Engineering-college-btech-Project2/Project-2/assets/81384987/8c5f3be3-7467-4b17-8c40-45926db5a534)
-[Privacy Policy](https://freecadapp2.000.pe/login/policy.html?i=2)
+
+---
+| [Privacy Policy](https://freecadapp2.000.pe/login/policy.html?i=2) |
+---
+<br>
+<br>
 About this app
 freeCad, AutoCAD & SolidWorks with Mechanical, Manufacturing & Metrology lab etc.
 
